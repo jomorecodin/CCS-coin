@@ -152,3 +152,4 @@ block = blockchain.construct_block(proof_no, last_hash)
 
 print("***Mining fccCoin has been successful***")
 print(blockchain.chain)
+print("check")
